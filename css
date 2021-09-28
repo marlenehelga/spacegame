@@ -1,0 +1,36 @@
+body{
+    background-image: url("unnamed.jpeg");
+}
+h1{
+    color: white;
+    font-size: 55px;
+}
+h4{
+    color: white;
+    font-size: 35px;
+}
+#print{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+#gameOver{
+    height: 600px;
+    width: 100%;
+    background-color: darkviolet;
+    justify-content: center;
+    top: 60px;
+    position: absolute;
+    display: none;
+    
+}
+#win{
+    height: 600px;
+    width: 100%;
+    background-color: darkviolet;
+    justify-content: center;
+    top: 60px;
+    position: absolute;
+    display: none;
+    
+}
